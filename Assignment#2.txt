@@ -1,0 +1,16 @@
+Assignment #2 : Topics: class Object Inheritance Polymorphism, Interface
+
+Create an Interface called Department
+with below methods.
+
+void getPassPercentage(String unitTestName);
+void getHighestScore(String unitTestName);
+
+
+Create classes called CSEDepartment, ITDepartment, EEEDepartment
+and implement above methods.
+
+Create a test class to test the methods polymorphic way.
+
+
+

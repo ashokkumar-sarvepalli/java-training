@@ -1,0 +1,9 @@
+Assignment#7: Servlet
+
+Implement a web page which searches for an item(The same table structure as in Assignment#6)
+once the item has been searched
+
+Display the item details like item name and item price in the web page
+
+Go through our complete tutorial and implement the same in your machine
+attached the project for reference as well

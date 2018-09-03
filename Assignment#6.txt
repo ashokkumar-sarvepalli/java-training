@@ -1,0 +1,12 @@
+Assignment #6: super market JDBC
+
+Sample code is attached to this project
+and the db design screenshot is also attached..
+
+
+Step1: import this project in to workspace
+Step2: go through the complete code looking in to the connectivity
+Step3: download mysql and create the database according to the screenshot
+
+Complete the OrderDAO class to create an order
+and also to display the Order.

@@ -1,0 +1,16 @@
+Assignment #4 : Topics: FileHandling
+
+Create a csv File Named employee.csv with below columns
+empid
+name
+salary
+dept
+
+
+write a program to read the content from the file and maintain a corresponding POJO
+
+then write a menu driven program to display the following options
+
+1. Display employee with highest salary
+2. Display sum of total salaries paid by each dept
+3. Display count of employees in each department

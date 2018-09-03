@@ -1,0 +1,13 @@
+Assignment #5: Threads
+
+Extension to Assignment #4 
+same use cases but create 3 to 4 employee.csv files
+read all the data parallely using threads
+once everything read
+perform the below use cases
+
+then write a menu driven program to display the following options
+
+1. Display employee with highest salary
+2. Display sum of total salaries paid by each dept
+3. Display count of employees in each department

@@ -1,0 +1,23 @@
+Assignment #3 : Topics: Generics
+
+Create a class called Employee with below fields
+id
+name
+dept
+salary
+
+Create a class called Manager who has mgr_id and list of Employees 
+assigned under him
+
+Write a menu driven program with following options
+
+1. create a employee
+2. delete a employee
+3. search employee
+4. create Manager
+5. assign an employee to a manager
+6. remove an employee from a manager
+7. sort employee based on salary
+8. display the manager with highest number of employees assigned to him.
+
+
